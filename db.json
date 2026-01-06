@@ -8,8 +8,14 @@
   "profile": {
     "name": "typicode"
   },
-  "user": {
-    "id": 123,
-    "name": "TestUser"
-  }
+  "user": [
+    {
+      "id": 1,
+      "name": "TestUser"
+    },
+    {
+      "id": 2,
+      "name": "TestUser 2"
+    }
+  ]
 }
